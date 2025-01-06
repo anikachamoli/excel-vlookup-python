@@ -32,9 +32,12 @@ The following files are used in this project:
 Below is a step-by-step guide to replacing Excel VLOOKUP with Python:
 
 ### Step 1: Load the Data
-![output](./data1.png)
-![output](./data2.png)
-![output](./data%203.png)
+
+<div align="center">
+  <img src="./data1.png" alt="Data 1" width="30%" />
+  <img src="./data2.png" alt="Data 2" width="30%" />
+  <img src="./data%203.png" alt="Data 3" width="30%" />
+</div>
 
 
 Use Pandas to read the datasets from the `data.xlsx` file. For example:
